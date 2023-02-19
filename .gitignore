@@ -1,0 +1,9 @@
+.env
+env
+doc
+Dockerfile
+.dockerignore
+TODO
+__pycache__
+.pytest_cache
+.vscode
